@@ -14,7 +14,3 @@ Foundation 5 Snippets
 | medium-col-zf | creates a div with class medium-* columns |
 | small-col-zf | creates a div with class small-* columns |
 | block-grid-zf | creates a Foundation5 Block Grid |
-
-
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
