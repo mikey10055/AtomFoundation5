@@ -5,7 +5,6 @@
   "description": "Foundation5 snippets",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "foundation5-package:toggle"
   },
   "repository": "https://github.com/mikey10055/AtomFoundation5",
   "license": "MIT",
