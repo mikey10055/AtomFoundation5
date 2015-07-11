@@ -45,4 +45,4 @@ Foundation 5 Snippets
 | accordion-dl-zf | creates a accordion using dl elements |
 | tabs-zf | creates a basic tab |
 
-[http://foundation.zurb.com/docs/](Full set of Foundation docs)
+[Full set of Foundation docs](http://foundation.zurb.com/docs/)
