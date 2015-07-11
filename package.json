@@ -1,0 +1,18 @@
+{
+  "name": "foundation5-package",
+  "main": "./lib/foundation5-package",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "foundation5-package:toggle"
+  },
+  "repository": "https://github.com/atom/foundation5-package",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
