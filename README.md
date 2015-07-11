@@ -13,7 +13,6 @@ Foundation 5 Snippets
 | large-col-zf | creates a div with class large-* columns |
 | medium-col-zf | creates a div with class medium-* columns |
 | small-col-zf | creates a div with class small-* columns |
-
 | block-grid-zf | creates a Foundation5 Block Grid |
 
 
