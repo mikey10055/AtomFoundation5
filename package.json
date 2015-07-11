@@ -2,7 +2,7 @@
   "name": "foundation5-package",
   "main": "./lib/foundation5-package",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Foundation5 snippets for Atom",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "foundation5-package:toggle"
