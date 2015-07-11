@@ -1,11 +1,10 @@
 {
   "name": "foundation5-package",
   "main": "./lib/foundation5-package",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Foundation5 snippets",
   "keywords": [],
-  "activationCommands": {
-  },
+  "activationCommands": {},
   "repository": "https://github.com/mikey10055/AtomFoundation5",
   "license": "MIT",
   "engines": {
