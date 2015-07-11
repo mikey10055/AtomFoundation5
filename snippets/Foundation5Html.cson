@@ -210,7 +210,7 @@ $6
       </ul>
     """
 #Foundation5 Flex-video
-  'Foundation 5 Clearing Lightbox':
+  'Foundation 5 Flex-video':
     'prefix': 'flex-video-zf'
     'body': """
     <div class="flex-video">
