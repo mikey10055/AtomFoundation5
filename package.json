@@ -1,7 +1,7 @@
 {
   "name": "foundation5-package",
   "main": "./lib/foundation5-package",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Foundation5 snippets",
   "keywords": [],
   "activationCommands": {
