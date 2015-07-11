@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "foundation5-package:toggle"
   },
-  "repository": "https://github.com/atom/foundation5-package",
+  "repository": "https://github.com/atom/AtomFoundation5",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
